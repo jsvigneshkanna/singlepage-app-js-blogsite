@@ -1,0 +1,23 @@
+{
+  "name": "singlepage-app-js-blogsite",
+  "version": "1.0.0",
+  "description": "Single page website for blog spot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsvigneshkanna/singlepage-app-js-blogsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsvigneshkanna/singlepage-app-js-blogsite/issues"
+  },
+  "homepage": "https://github.com/jsvigneshkanna/singlepage-app-js-blogsite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
